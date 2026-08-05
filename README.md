@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prathi-27/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Prathi-27/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prathi-27/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Prathi-27/leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathi-27/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Prathi-27/leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prathi-27/leetcode/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prathi-27/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
