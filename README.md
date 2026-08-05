@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prathi-27/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prathi-27/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prathi-27/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Prathi-27/leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Prathi-27/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Prathi-27/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prathi-27/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Prathi-27/leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prathi-27/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Prathi-27/leetcode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prathi-27/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Prathi-27/leetcode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
