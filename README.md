@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Prathi-27/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Prathi-27/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Prathi-27/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Prathi-27/leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prathi-27/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prathi-27/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Prathi-27/leetcode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Prathi-27/leetcode/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Prathi-27/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
