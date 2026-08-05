@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prathi-27/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Prathi-27/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Prathi-27/leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Prathi-27/leetcode/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathi-27/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Prathi-27/leetcode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prathi-27/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prathi-27/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Prathi-27/leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
