@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Prathi-27/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Prathi-27/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prathi-27/leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathi-27/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Prathi-27/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Prathi-27/leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
