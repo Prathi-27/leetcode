@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prathi-27/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Prathi-27/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/Prathi-27/leetcode/tree/master/0120-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathi-27/leetcode/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/Prathi-27/leetcode/tree/master/0120-triangle) |
 ## Newton's Method
 |  |
 | ------- |
