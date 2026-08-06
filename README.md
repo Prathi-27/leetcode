@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prathi-27/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Prathi-27/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathi-27/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathi-27/leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/Prathi-27/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathi-27/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Newton's Method
 |  |
 | ------- |
