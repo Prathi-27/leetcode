@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Prathi-27/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathi-27/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prathi-27/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/Prathi-27/leetcode/tree/master/0134-gas-station) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prathi-27/leetcode/tree/master/0011-container-with-most-water) |
+| [0134-gas-station](https://github.com/Prathi-27/leetcode/tree/master/0134-gas-station) |
 ## Trie
 |  |
 | ------- |
