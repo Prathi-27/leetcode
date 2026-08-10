@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Prathi-27/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Prathi-27/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Prathi-27/leetcode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prathi-27/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prathi-27/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathi-27/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Prathi-27/leetcode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
