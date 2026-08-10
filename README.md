@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathi-27/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Prathi-27/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Prathi-27/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prathi-27/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prathi-27/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathi-27/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Prathi-27/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Prathi-27/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Prathi-27/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prathi-27/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
