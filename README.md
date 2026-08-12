@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prathi-27/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Prathi-27/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prathi-27/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Prathi-27/leetcode/tree/master/0260-single-number-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prathi-27/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Prathi-27/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Prathi-27/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Prathi-27/leetcode/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
