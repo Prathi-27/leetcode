@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Prathi-27/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Prathi-27/leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Prathi-27/leetcode/tree/master/0292-nim-game) |
 ## Recursion
 |  |
 | ------- |
@@ -264,4 +265,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prathi-27/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Prathi-27/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Prathi-27/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Prathi-27/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Prathi-27/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Prathi-27/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
