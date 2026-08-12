@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prathi-27/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Prathi-27/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prathi-27/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prathi-27/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prathi-27/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathi-27/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Prathi-27/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Prathi-27/leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prathi-27/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prathi-27/leetcode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
