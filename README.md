@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Prathi-27/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Prathi-27/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Prathi-27/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Prathi-27/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Prathi-27/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prathi-27/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Prathi-27/leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
