@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prathi-27/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Prathi-27/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Prathi-27/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Prathi-27/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prathi-27/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathi-27/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prathi-27/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prathi-27/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Prathi-27/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathi-27/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prathi-27/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathi-27/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prathi-27/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prathi-27/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathi-27/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Prathi-27/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Prathi-27/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Prathi-27/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
