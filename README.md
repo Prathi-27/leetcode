@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prathi-27/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathi-27/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Prathi-27/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Prathi-27/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathi-27/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prathi-27/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prathi-27/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prathi-27/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Prathi-27/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Prathi-27/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prathi-27/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Prathi-27/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prathi-27/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Prathi-27/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prathi-27/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -255,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Prathi-27/leetcode/tree/master/0279-perfect-squares) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prathi-27/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
