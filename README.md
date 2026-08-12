@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prathi-27/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prathi-27/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Prathi-27/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Prathi-27/leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Prathi-27/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Prathi-27/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Prathi-27/leetcode/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathi-27/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prathi-27/leetcode/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Prathi-27/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
