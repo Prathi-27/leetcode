@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Prathi-27/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Prathi-27/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Prathi-27/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Prathi-27/leetcode/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prathi-27/leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/Prathi-27/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathi-27/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/Prathi-27/leetcode/tree/master/0279-perfect-squares) |
 ## Newton's Method
 |  |
 | ------- |
@@ -239,4 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Prathi-27/leetcode/tree/master/0258-add-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Prathi-27/leetcode/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Prathi-27/leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Prathi-27/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
